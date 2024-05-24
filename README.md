@@ -1,5 +1,7 @@
-# Webcapture
-This project is a Chrome plugin for the web that allows users to highlight significant time stamps in a given video.
+# WebCapture
+This project is a Chrome plugin for the web that allows users to highlight significant time stamps in a given video.<br>
+
+## Link to [video](https://youtu.be/8B4z-3CMEuY)
 
 Users who utilise this tool will be more productive and less likely to miss any crucial details in a video. It is perfect for students and anyone who spends a lot of time watching YouTube.
 
